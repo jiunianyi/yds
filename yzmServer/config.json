@@ -1,0 +1,16 @@
+{
+    "email": {
+      "user": "2168177600@qq.com",
+      "pass": "hugolwlvfmrieaeh"
+    },
+    "mysql":{
+        "host":"127.0.0.1",
+        "port":3306,
+        "passwd":"081415"
+    },
+    "redis":
+    {"host":"127.0.0.1",
+    "port":6380,
+    "passwd":"081415"
+}
+}
